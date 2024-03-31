@@ -1,7 +1,7 @@
 # COVID-19 Analysis Project
 
 ## Overview
-This repository contains the source code and data files for a COVID-19 analysis project. The project utilizes SQL and Tableau for data extraction, analysis, and visualization respectively. The aim of this project is to analyze various aspects of the COVID-19 pandemic using real-world data and present insights through visualizations.
+This repository contains the source code and data files for a COVID-19 deaths analysis project. The project utilizes SQL and Tableau for data extraction, analysis, and visualization respectively. The aim of this project is to analyze deaths of the COVID-19 pandemic using real-world data and present insights through visualizations.
 
 ## Project Components
 - **SQL Queries**: SQL queries are used to extract data from the provided database, which contains COVID-19 related data.
